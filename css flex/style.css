@@ -1,0 +1,41 @@
+
+body{
+    background-color: white;
+    color: red;
+}
+main{
+    font-size: xx-large;
+    color: blue;
+}
+footer{
+   color: green;
+}
+
+.flexbox{
+    display: flex;
+    background-color: blueviolet;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+    
+
+}
+.flexbox > div{
+    background-color: darkcyan;
+     margin: 2rem;
+     padding: 3rem;
+     font-size: 3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
